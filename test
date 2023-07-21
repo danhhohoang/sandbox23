@@ -1,0 +1,148 @@
+<div class="swiper-container grid-view nav-bottom nav-color mb-14 text-center" data-margin="30" data-dots="false" data-nav="true" data-items-md="2" data-items-xs="1">
+    <div class="swiper overflow-visible pb-2">
+      <div class="swiper-wrapper">
+        <div class="swiper-slide">
+          <div class="card shadow-lg">
+            <figure class="card-img-top overlay overlay-1">
+              <a href="#"><img class="img-fluid" src="./assets/img/photos/fc1.jpg" srcset="./assets/img/photos/fc1@2x.jpg 2x" alt="" /></a>
+              <figcaption>
+                <h5 class="from-top mb-0">View Gallery</h5>
+              </figcaption>
+            </figure>
+            <div class="card-body p-6">
+              <h3 class="fs-21 mb-1">Lucy & David</h3>
+              <ul class="post-meta fs-16 mb-0">
+                <li>5 Photos</li>
+                <li>Wedding</li>
+              </ul>
+            </div>
+            <!--/.card-body -->
+          </div>
+          <!-- /.card -->
+        </div>
+        <!--/.swiper-slide -->
+        <div class="swiper-slide">
+          <div class="card shadow-lg">
+            <figure class="card-img-top overlay overlay-1">
+              <a href="#"><img class="img-fluid" src="./assets/img/photos/fc2.jpg" srcset="./assets/img/photos/fc2@2x.jpg 2x" alt="" /></a>
+              <figcaption>
+                <h5 class="from-top mb-0">View Gallery</h5>
+              </figcaption>
+            </figure>
+            <div class="card-body p-6">
+              <h3 class="fs-21 mb-1">Stacy & Thomas</h3>
+              <ul class="post-meta fs-16 mb-0">
+                <li>8 Photos</li>
+                <li>Wedding</li>
+              </ul>
+            </div>
+            <!--/.card-body -->
+          </div>
+          <!-- /.card -->
+        </div>
+        <!--/.swiper-slide -->
+        <div class="swiper-slide">
+          <div class="card shadow-lg">
+            <figure class="card-img-top overlay overlay-1">
+              <a href="#"><img class="img-fluid" src="./assets/img/photos/fc3.jpg" srcset="./assets/img/photos/fc3@2x.jpg 2x" alt="" /></a>
+              <figcaption>
+                <h5 class="from-top mb-0">View Gallery</h5>
+              </figcaption>
+            </figure>
+            <div class="card-body p-6">
+              <h3 class="fs-21 mb-1">Katherine & Jack</h3>
+              <ul class="post-meta fs-16 mb-0">
+                <li>7 Photos</li>
+                <li>Couples</li>
+              </ul>
+            </div>
+            <!--/.card-body -->
+          </div>
+          <!-- /.card -->
+        </div>
+        <!--/.swiper-slide -->
+        <div class="swiper-slide">
+          <div class="card shadow-lg">
+            <figure class="card-img-top overlay overlay-1">
+              <a href="#"><img class="img-fluid" src="./assets/img/photos/fc4.jpg" srcset="./assets/img/photos/fc4@2x.jpg 2x" alt="" /></a>
+              <figcaption>
+                <h5 class="from-top mb-0">View Gallery</h5>
+              </figcaption>
+            </figure>
+            <div class="card-body p-6">
+              <h3 class="fs-21 mb-1">Jolene & William</h3>
+              <ul class="post-meta fs-16 mb-0">
+                <li>9 Photos</li>
+                <li>Wedding</li>
+              </ul>
+            </div>
+            <!--/.card-body -->
+          </div>
+          <!-- /.card -->
+        </div>
+        <!--/.swiper-slide -->
+        <div class="swiper-slide">
+          <div class="card shadow-lg">
+            <figure class="card-img-top overlay overlay-1">
+              <a href="#"><img class="img-fluid" src="./assets/img/photos/fc5.jpg" srcset="./assets/img/photos/fc5@2x.jpg 2x" alt="" /></a>
+              <figcaption>
+                <h5 class="from-top mb-0">View Gallery</h5>
+              </figcaption>
+            </figure>
+            <div class="card-body p-6">
+              <h3 class="fs-21 mb-1">Jenn & Richard</h3>
+              <ul class="post-meta fs-16 mb-0">
+                <li>6 Photos</li>
+                <li>Engagement</li>
+              </ul>
+            </div>
+            <!--/.card-body -->
+          </div>
+          <!-- /.card -->
+        </div>
+        <!--/.swiper-slide -->
+        <div class="swiper-slide">
+          <div class="card shadow-lg">
+            <figure class="card-img-top overlay overlay-1">
+              <a href="#"><img class="img-fluid" src="./assets/img/photos/fc6.jpg" srcset="./assets/img/photos/fc6@2x.jpg 2x" alt="" /></a>
+              <figcaption>
+                <h5 class="from-top mb-0">View Gallery</h5>
+              </figcaption>
+            </figure>
+            <div class="card-body p-6">
+              <h3 class="fs-21 mb-1">Gloria & Leo</h3>
+              <ul class="post-meta fs-16 mb-0">
+                <li>8 Photos</li>
+                <li>Wedding</li>
+              </ul>
+            </div>
+            <!--/.card-body -->
+          </div>
+          <!-- /.card -->
+        </div>
+        <!--/.swiper-slide -->
+        <div class="swiper-slide">
+          <div class="card shadow-lg">
+            <figure class="card-img-top overlay overlay-1">
+              <a href="#"><img class="img-fluid" src="./assets/img/photos/fc7.jpg" srcset="./assets/img/photos/fc7@2x.jpg 2x" alt="" /></a>
+              <figcaption>
+                <h5 class="from-top mb-0">View Gallery</h5>
+              </figcaption>
+            </figure>
+            <div class="card-body p-6">
+              <h3 class="fs-21 mb-1">Grace & Finn</h3>
+              <ul class="post-meta fs-16 mb-0">
+                <li>7 Photos</li>
+                <li>Engagement</li>
+              </ul>
+            </div>
+            <!--/.card-body -->
+          </div>
+          <!-- /.card -->
+        </div>
+        <!--/.swiper-slide -->
+      </div>
+      <!--/.swiper-wrapper -->
+    </div>
+    <!-- /.swiper -->
+  </div>
